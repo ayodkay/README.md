@@ -11,8 +11,8 @@ Nigerian,i live in Brasil. android, react and python developer, currently workin
 <center>
 <table>
     <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=ayodkay&show_icons=true&repo=github-readme-stats" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ayodkay&theme=buefy"/></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayodkay&hide=html&layout=compact&theme=vue" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ayodkay&theme=vue"/></td>
     </tr>   
 </table>
 </center>  
