@@ -1,4 +1,4 @@
-Nigerian,i live in Brasil. android, react and python developer, currently working at psafe.
+Android, react and python developer, currently working at psafe.
 
 ![image](https://img.shields.io/badge/Andriod-3ddc84?style=for-the-badge&logo=android&logoColor=black)
 ![image](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=black)
